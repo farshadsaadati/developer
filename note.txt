@@ -5,3 +5,5 @@ This message from ali.
 Ali says somthing.
 
 Add new feature.
+
+Add register feature.
